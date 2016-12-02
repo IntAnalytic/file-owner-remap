@@ -1,6 +1,6 @@
 #######################################
 ## File system gid/uid migration mapper
-## By: Tim Cederquist (678-591-4136)
+## By: Tim Cederquist
 ##   : Nov 2, 2016
 #######################################
 #Imports
