@@ -1,5 +1,5 @@
 # file-owner-remap
-Change the owner and group member for files and folders in a directory tree. These changes are based on the user ID and group ID and mapped through a provided set of csv files. This utility is useful for tasks such as moving a folder to a new server with ID's such as migration from local to AD in Linux or from promoting from lower environments to upper environments.
+Change the owner and group member for files and folders in a directory tree. These changes are based on the user ID and group ID and mapped through a provided set of csv files. This utility is useful for tasks such as moving a folder to a new server where ID's need to be migrated from a local auth store to an AD store. Another example might be migration from a lower environments to upper environments where the user and or group id's are different.
 
 ## Tested with:
 * Python 2.7
